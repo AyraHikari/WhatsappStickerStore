@@ -19,7 +19,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/hinatakaho1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/hinatakaho/hinatakaho1/"
 }, {
     "identifier": "hinatakaho2",
     "name": "Hinata Kaho",
@@ -30,7 +30,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/hinatakaho2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/hinatakaho/hinatakaho2/"
 }, {
     "identifier": "bellezza1",
     "name": "Bellezza Felutia",
@@ -41,7 +41,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/bellezza1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/bellezza/bellezza1/"
 }, {
     "identifier": "bellezza2",
     "name": "Bellezza Felutia",
@@ -52,7 +52,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/bellezza2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/bellezza/bellezza2/"
 }, {
     "identifier": "elfwanttogetcaught1",
     "name": "White Elf",
@@ -63,7 +63,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught/elfwanttogetcaught1/"
 }, {
     "identifier": "elfwanttogetcaught2",
     "name": "White Elf",
@@ -74,7 +74,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught/elfwanttogetcaught2/"
 }, {
     "identifier": "elfwanttogetcaught3",
     "name": "White Elf",
@@ -85,7 +85,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught/elfwanttogetcaught3/"
 }, {
     "identifier": "elfwanttogetcaught4",
     "name": "White Elf",
@@ -96,7 +96,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/elfwanttogetcaught/elfwanttogetcaught4/"
 }, {
     "identifier": "warmlady1",
     "name": "Warm Lady",
@@ -107,7 +107,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/warmlady1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/warmlady/warmlady1/"
 }, {
     "identifier": "warmlady2",
     "name": "Warm Lady",
@@ -118,7 +118,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/warmlady2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/warmlady/warmlady2/"
 }, {
     "identifier": "silentreactpack1",
     "name": "Silent React",
@@ -129,7 +129,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack/silentreactpack1/"
 }, {
     "identifier": "silentreactpack2",
     "name": "Silent React",
@@ -140,7 +140,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack/silentreactpack2/"
 }, {
     "identifier": "silentreactpack3",
     "name": "Silent React",
@@ -151,7 +151,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack/silentreactpack3/"
 }, {
     "identifier": "silentreactpack4",
     "name": "Silent React",
@@ -162,7 +162,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack/silentreactpack4/"
 }, {
     "identifier": "silentreactpack5",
     "name": "Silent React",
@@ -173,7 +173,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack5/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/silentreactpack/silentreactpack5/"
 }, {
     "identifier": "girlblackhair1",
     "name": "Black Hair Girl",
@@ -184,7 +184,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/girlblackhair1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/girlblackhair/girlblackhair1/"
 }, {
     "identifier": "girlblackhair2",
     "name": "Black Hair Girl",
@@ -195,7 +195,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/girlblackhair2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/girlblackhair/girlblackhair2/"
 }, {
     "identifier": "florkofcows1",
     "name": "Florkofcows",
@@ -206,7 +206,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows/florkofcows1/"
 }, {
     "identifier": "florkofcows2",
     "name": "Florkofcows",
@@ -217,7 +217,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows/florkofcows2/"
 }, {
     "identifier": "florkofcows3",
     "name": "Florkofcows",
@@ -228,7 +228,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/florkofcows/florkofcows3/"
 }, {
     "identifier": "dogeedit1",
     "name": "Doge Edit",
@@ -239,7 +239,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit/dogeedit1/"
 }, {
     "identifier": "dogeedit2",
     "name": "Doge Edits",
@@ -250,7 +250,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit/dogeedit2/"
 }, {
     "identifier": "dogeedit3",
     "name": "Doge Edits",
@@ -261,7 +261,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit/dogeedit3/"
 }, {
     "identifier": "dogeedit4",
     "name": "Doge Edits",
@@ -272,7 +272,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit/dogeedit4/"
 }, {
     "identifier": "dogeedit5",
     "name": "Doge Edits",
@@ -283,7 +283,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit5/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedit/dogeedit5/"
 }, {
     "identifier": "emt1",
     "name": "EMT",
@@ -294,7 +294,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/emt1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/emt/emt1/"
 }, {
     "identifier": "emt2",
     "name": "EMT",
@@ -305,7 +305,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/emt2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/emt/emt2/"
 }, {
     "identifier": "watashinitenshi1",
     "name": "Wataten!",
@@ -316,7 +316,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi/watashinitenshi1/"
 }, {
     "identifier": "watashinitenshi2",
     "name": "Wataten!",
@@ -327,7 +327,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi/watashinitenshi2/"
 }, {
     "identifier": "watashinitenshi3",
     "name": "Wataten!",
@@ -338,7 +338,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi/watashinitenshi3/"
 }, {
     "identifier": "watashinitenshi4",
     "name": "Wataten!",
@@ -349,7 +349,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi/watashinitenshi4/"
 }, {
     "identifier": "watashinitenshi5",
     "name": "Wataten!",
@@ -360,7 +360,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi5/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/watashinitenshi/watashinitenshi5/"
 }, {
     "identifier": "dogeedits21",
     "name": "Doge Edits 2",
@@ -371,7 +371,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits21/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits2/dogeedits21/"
 }, {
     "identifier": "dogeedits22",
     "name": "Doge Edits 2",
@@ -382,7 +382,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits22/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits2/dogeedits22/"
 }, {
     "identifier": "dogeedits23",
     "name": "Doge Edits 2",
@@ -393,7 +393,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits23/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits2/dogeedits23/"
 }, {
     "identifier": "dogeedits24",
     "name": "Doge Edits 2",
@@ -404,7 +404,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits24/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits2/dogeedits24/"
 }, {
     "identifier": "dogeedits25",
     "name": "Doge Edits 2",
@@ -415,7 +415,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits25/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits2/dogeedits25/"
 }, {
     "identifier": "dogeedits31",
     "name": "Doge Edits 3",
@@ -426,7 +426,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits31/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits3/dogeedits31/"
 }, {
     "identifier": "dogeedits32",
     "name": "Doge Edits 3",
@@ -437,7 +437,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits32/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits3/dogeedits32/"
 }, {
     "identifier": "dogeedits33",
     "name": "Doge Edits 3",
@@ -448,7 +448,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits33/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits3/dogeedits33/"
 }, {
     "identifier": "dogeedits34",
     "name": "Doge Edits 3",
@@ -459,7 +459,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits34/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits3/dogeedits34/"
 }, {
     "identifier": "dogeedits35",
     "name": "Doge Edits 3",
@@ -470,7 +470,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits35/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits3/dogeedits35/"
 }, {
     "identifier": "dogeedits41",
     "name": "Doge Edits 4",
@@ -481,7 +481,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits41/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits4/dogeedits41/"
 }, {
     "identifier": "dogeedits42",
     "name": "Doge Edits 4",
@@ -492,7 +492,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits42/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits4/dogeedits42/"
 }, {
     "identifier": "dogeedits43",
     "name": "Doge Edits 4",
@@ -503,7 +503,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits43/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/dogeedits4/dogeedits43/"
 }, {
     "identifier": "rapichan1",
     "name": "Raphiel chan",
@@ -514,7 +514,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan/rapichan1/"
 }, {
     "identifier": "rapichan2",
     "name": "Raphiel chan",
@@ -525,7 +525,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan/rapichan2/"
 }, {
     "identifier": "rapichan3",
     "name": "Raphiel chan",
@@ -536,7 +536,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/rapichan/rapichan3/"
 }, {
     "identifier": "shizukuandriru1",
     "name": "Shizuku and Riru",
@@ -547,7 +547,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru/shizukuandriru1/"
 }, {
     "identifier": "shizukuandriru2",
     "name": "Shizuku and Riru",
@@ -558,7 +558,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru/shizukuandriru2/"
 }, {
     "identifier": "shizukuandriru3",
     "name": "Shizuku and Riru",
@@ -569,7 +569,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru/shizukuandriru3/"
 }, {
     "identifier": "shizukuandriru4",
     "name": "Shizuku and Riru",
@@ -580,7 +580,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/shizukuandriru/shizukuandriru4/"
 }, {
     "identifier": "steinsgate1",
     "name": "Steins;Gate",
@@ -591,7 +591,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate/steinsgate1/"
 }, {
     "identifier": "steinsgate2",
     "name": "Steins;Gate",
@@ -602,7 +602,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate/steinsgate2/"
 }, {
     "identifier": "steinsgate3",
     "name": "Steins;Gate",
@@ -613,7 +613,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate/steinsgate3/"
 }, {
     "identifier": "steinsgate4",
     "name": "Steins;Gate",
@@ -624,7 +624,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate/steinsgate4/"
 }, {
     "identifier": "steinsgate5",
     "name": "Steins;Gate",
@@ -635,7 +635,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate5/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/steinsgate/steinsgate5/"
 }, {
     "identifier": "tomandjerry1",
     "name": "Tom and Jerry",
@@ -646,7 +646,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry/tomandjerry1/"
 }, {
     "identifier": "tomandjerry2",
     "name": "Tom and Jerry",
@@ -657,7 +657,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry/tomandjerry2/"
 }, {
     "identifier": "tomandjerry3",
     "name": "Tom and Jerry",
@@ -668,7 +668,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry3/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry/tomandjerry3/"
 }, {
     "identifier": "tomandjerry4",
     "name": "Tom and Jerry",
@@ -679,7 +679,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry4/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry/tomandjerry4/"
 }, {
     "identifier": "tomandjerry5",
     "name": "Tom and Jerry",
@@ -690,7 +690,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry5/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/tomandjerry/tomandjerry5/"
 }, {
     "identifier": "mukineko1",
     "name": "Mukineko",
@@ -701,7 +701,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/mukineko1/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/mukineko/mukineko1/"
 }, {
     "identifier": "mukineko2",
     "name": "Mukineko",
@@ -712,7 +712,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/mukineko2/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/mukineko/mukineko2/"
 }, {
     "identifier": "genshin21",
     "name": "Genshin Impact",
@@ -723,7 +723,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin21/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin2/genshin21/"
 }, {
     "identifier": "genshin22",
     "name": "Genshin Impact",
@@ -734,7 +734,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin22/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin2/genshin22/"
 }, {
     "identifier": "genshin23",
     "name": "Genshin Impact",
@@ -745,7 +745,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin23/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin2/genshin23/"
 }, {
     "identifier": "genshin24",
     "name": "Genshin Impact",
@@ -756,7 +756,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin24/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin2/genshin24/"
 }, {
     "identifier": "genshin25",
     "name": "Genshin Impact",
@@ -767,7 +767,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin25/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin2/genshin25/"
 }, {
     "identifier": "genshin11",
     "name": "Genshin Impact Chibi",
@@ -778,7 +778,7 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin11/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin1/genshin11/"
 }, {
     "identifier": "genshin12",
     "name": "Genshin Impact Chibi",
@@ -789,5 +789,5 @@
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin12/"
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/genshin1/genshin12/"
 }]
