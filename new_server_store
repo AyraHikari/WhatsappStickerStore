@@ -1,12 +1,24 @@
 [{
-    "identifier": "koikake",
-    "name": "Koikake",
-    "publisher": "AyraHikari",
-    "tray": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/ayra_1.webp",
-    "stickers": ["ayra_1.webp", "ayra_2.webp", "ayra_3.webp", "ayra_4.webp", "ayra_5.webp", "ayra_6.webp", "ayra_7.webp", "ayra_8.webp", "ayra_9.webp", "ayra_10.webp", "ayra_11.webp", "ayra_12.webp", "ayra_13.webp", "ayra_14.webp", "ayra_15.webp", "ayra_16.webp", "ayra_17.webp", "ayra_18.webp", "ayra_19.webp", "ayra_20.webp", "ayra_21.webp", "ayra_22.webp", "ayra_23.webp", "ayra_24.webp", "ayra_25.webp"]
-    "zip": "http://static.sticker.ly/sticker_pack/13279e882d3a25af/DT92JC/2/pack.zip",
+    "identifier": "DT92JC",
+    "name": "memes random",
+    "publisher": "TW\/@DennySkrr",
+    "tray": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/1.webp",
+    "stickers": ["1.webp", "15.webp", "8.webp", "2.webp", "12.webp", "17.webp", "9.webp", "3.webp", "16.webp", "14.webp", "13.webp", "10.webp", "11.webp", "4.webp", "5.webp", "6.webp", "7.webp"],
+    "zip": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/pack.zip",
     "converter": "nao",
     "animado": true,
     "isAnimated": true,
-    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/"
+    "referencia": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/"
+},
+{
+    "identifier": "DT92JC",
+    "name": "memes random",
+    "publisher": "TW\/@DennySkrr",
+    "tray": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/1.webp",
+    "stickers": ["1.webp", "15.webp", "8.webp", "2.webp", "12.webp", "17.webp", "9.webp", "3.webp", "16.webp", "14.webp", "13.webp", "10.webp", "11.webp", "4.webp", "5.webp", "6.webp", "7.webp"],
+    "zip": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/pack.zip",
+    "converter": "nao",
+    "animado": true,
+    "isAnimated": true,
+    "referencia": "http:\/\/static.sticker.ly\/sticker_pack\/13279e882d3a25af\/DT92JC\/2\/"
 }]
