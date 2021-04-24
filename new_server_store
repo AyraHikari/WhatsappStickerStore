@@ -3,7 +3,7 @@
     "name": "Koikake",
     "publisher": "Ayra Hikari",
     "tray": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png",
-    "stickers": ["https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png", "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png", "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png", "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png", "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png"]
+    "stickers": ["Tray.png", "Tray.png", "Tray.png", "Tray.png", "Tray.png"]
     "zip": "pack.zip",
     "converter": "nao",
     "animado": false,
