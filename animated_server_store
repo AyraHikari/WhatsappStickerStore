@@ -1,0 +1,19 @@
+[{
+    "identifier": "Capoo",
+    "name": "Capoo Test",
+    "publisher": "Ayra Hikari",
+    "tray": "https://github.com/AyraHikari/WhatsappStickerStore/raw/master/tray.webp",
+    "stickers": ["0.webp", "1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "zip": "pack.zip",
+    "isAnimated": true,
+    "referencia": "https://github.com/AyraHikari/WhatsappStickerStore/raw/master/"
+}, {
+    "identifier": "Capoo",
+    "name": "Capoo Test",
+    "publisher": "Ayra Hikari",
+    "tray": "https://github.com/AyraHikari/WhatsappStickerStore/raw/master/tray.webp",
+    "stickers": ["0.webp", "1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "zip": "pack.zip",
+    "isAnimated": true,
+    "referencia": "https://github.com/AyraHikari/WhatsappStickerStore/raw/master/"
+}]
