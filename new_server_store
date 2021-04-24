@@ -1,12 +1,12 @@
 [{
-        "identifier": "3NG9XO",
-        "name": "Princesas fangirl",
-        "publisher": "@danoqueen",
-        "tray": "http:\/\/static.sticker.ly\/sticker_pack\/bftiA8gW7HYhoTqQAmbRw\/3NG9XO\/16\/22492168-0221-4386-bdcc-bee3739c7b59.png",
-        "stickers": ["22492168-0221-4386-bdcc-bee3739c7b59.png", "2e1ad9a7-d7d2-4365-a6af-31e2b5ee7413.png", "58e0154a-03c7-43f1-928f-8676d40a793b.png", "7097c1bd-ad1f-4a2d-bf11-7a586dafbddf.png", "323fab84-17c8-4ab4-81fe-a08922d8b3c1.png", "cfb68354-406c-49d4-bbc1-7a12d1eb7631.png", "a744eaec-3047-4383-bc26-4d063f6b9811.png", "0fcc8171-5818-4215-b24f-d037ebc0f3fc.png", "76ee8bb6-b72e-4a51-8d09-142bf159ea66.png", "2a0b1b52-c9b9-4248-8f8b-7181bf2c8b53.png", "9d10f45d-2ac7-4406-a67f-321b8a9896bb.png", "278ddb59-f68b-4cad-814f-5ee1210caf0e.png", "9f5316be-064b-4ec0-844f-2602bd60f9a4.png", "523a4e9a-ffc1-4dea-a23f-b3e43d722852.png", "8fbc1a07-cf6c-45f8-a1b5-3edfa46453f6.png"],
-        "zip": "http:\/\/static.sgqlite.com\/convertido\/3NG9XO.zip",
-        "converter": "nao",
-        "animado": false,
-        "isAnimated": false,
-        "referencia": "http:\/\/static.sticker.ly\/sticker_pack\/bftiA8gW7HYhoTqQAmbRw\/3NG9XO\/16\/"
-    }]
+    "identifier": "koikake",
+    "name": "Koikake",
+    "publisher": "Ayra Hikari",
+    "tray": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/Tray.png",
+    "stickers": ["Tray.png", "Tray.png", "Tray.png", "Tray.png", "Tray.png"]
+    "zip": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/pack.zip",
+    "converter": "nao",
+    "animado": false,
+    "isAnimated": false,
+    "referencia": "https://raw.githubusercontent.com/AyraHikari/WhatsappStickerStore/koikake/"
+}]
